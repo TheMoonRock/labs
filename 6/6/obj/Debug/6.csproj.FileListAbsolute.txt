@@ -1,0 +1,7 @@
+Z:\23104 2021\Галимов Артём\лабы 1\6\6\obj\Debug\6.csprojResolveAssemblyReference.cache
+Z:\23104 2021\Галимов Артём\лабы 1\6\6\obj\Debug\6.csproj.CoreCompileInputs.cache
+Z:\23104 2021\Галимов Артём\лабы 1\6\6\bin\Debug\6.exe.config
+Z:\23104 2021\Галимов Артём\лабы 1\6\6\bin\Debug\6.exe
+Z:\23104 2021\Галимов Артём\лабы 1\6\6\bin\Debug\6.pdb
+Z:\23104 2021\Галимов Артём\лабы 1\6\6\obj\Debug\6.exe
+Z:\23104 2021\Галимов Артём\лабы 1\6\6\obj\Debug\6.pdb

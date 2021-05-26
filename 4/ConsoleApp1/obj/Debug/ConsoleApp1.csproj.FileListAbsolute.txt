@@ -1,0 +1,2 @@
+Z:\23104 2021\Галимов Артём\лабы 1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+Z:\23104 2021\Галимов Артём\лабы 1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
