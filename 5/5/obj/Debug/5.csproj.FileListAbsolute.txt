@@ -5,3 +5,10 @@ Z:\23104 2021\Галимов Артём\лабы 1\5\5\obj\Debug\5.csprojResolve
 Z:\23104 2021\Галимов Артём\лабы 1\5\5\obj\Debug\5.csproj.CoreCompileInputs.cache
 Z:\23104 2021\Галимов Артём\лабы 1\5\5\obj\Debug\5.exe
 Z:\23104 2021\Галимов Артём\лабы 1\5\5\obj\Debug\5.pdb
+C:\Users\Mr Chernov\Documents\GitHub\labs\5\5\bin\Debug\5.exe.config
+C:\Users\Mr Chernov\Documents\GitHub\labs\5\5\bin\Debug\5.exe
+C:\Users\Mr Chernov\Documents\GitHub\labs\5\5\bin\Debug\5.pdb
+C:\Users\Mr Chernov\Documents\GitHub\labs\5\5\obj\Debug\5.csprojAssemblyReference.cache
+C:\Users\Mr Chernov\Documents\GitHub\labs\5\5\obj\Debug\5.csproj.CoreCompileInputs.cache
+C:\Users\Mr Chernov\Documents\GitHub\labs\5\5\obj\Debug\5.exe
+C:\Users\Mr Chernov\Documents\GitHub\labs\5\5\obj\Debug\5.pdb

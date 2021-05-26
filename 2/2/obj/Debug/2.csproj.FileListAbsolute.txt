@@ -5,3 +5,10 @@ Z:\23104 2021\Галимов Артём\лабы 1\2\2\obj\Debug\2.csproj.CoreCo
 Z:\23104 2021\Галимов Артём\лабы 1\2\2\obj\Debug\2.exe
 Z:\23104 2021\Галимов Артём\лабы 1\2\2\obj\Debug\2.pdb
 Z:\23104 2021\Галимов Артём\лабы 1\2\2\obj\Debug\2.csprojResolveAssemblyReference.cache
+C:\Users\Mr Chernov\Documents\GitHub\labs\2\2\bin\Debug\2.exe.config
+C:\Users\Mr Chernov\Documents\GitHub\labs\2\2\bin\Debug\2.exe
+C:\Users\Mr Chernov\Documents\GitHub\labs\2\2\bin\Debug\2.pdb
+C:\Users\Mr Chernov\Documents\GitHub\labs\2\2\obj\Debug\2.csprojAssemblyReference.cache
+C:\Users\Mr Chernov\Documents\GitHub\labs\2\2\obj\Debug\2.csproj.CoreCompileInputs.cache
+C:\Users\Mr Chernov\Documents\GitHub\labs\2\2\obj\Debug\2.exe
+C:\Users\Mr Chernov\Documents\GitHub\labs\2\2\obj\Debug\2.pdb
