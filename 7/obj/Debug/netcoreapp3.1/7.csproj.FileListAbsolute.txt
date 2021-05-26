@@ -1,0 +1,13 @@
+D:\labs\labs\7\bin\Debug\netcoreapp3.1\7.exe
+D:\labs\labs\7\bin\Debug\netcoreapp3.1\7.deps.json
+D:\labs\labs\7\bin\Debug\netcoreapp3.1\7.runtimeconfig.json
+D:\labs\labs\7\bin\Debug\netcoreapp3.1\7.runtimeconfig.dev.json
+D:\labs\labs\7\bin\Debug\netcoreapp3.1\7.dll
+D:\labs\labs\7\bin\Debug\netcoreapp3.1\7.pdb
+D:\labs\labs\7\obj\Debug\netcoreapp3.1\7.csprojAssemblyReference.cache
+D:\labs\labs\7\obj\Debug\netcoreapp3.1\7.AssemblyInfoInputs.cache
+D:\labs\labs\7\obj\Debug\netcoreapp3.1\7.AssemblyInfo.cs
+D:\labs\labs\7\obj\Debug\netcoreapp3.1\7.csproj.CoreCompileInputs.cache
+D:\labs\labs\7\obj\Debug\netcoreapp3.1\7.dll
+D:\labs\labs\7\obj\Debug\netcoreapp3.1\7.pdb
+D:\labs\labs\7\obj\Debug\netcoreapp3.1\7.genruntimeconfig.cache
